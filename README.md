@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/build-passing-yellow.svg?style=flat-square">
 </p>
 
+![image](https://raw.githubusercontent.com/chenhunluo321/Traverler-s-Guide/master/howto.png)
 
 > wolfcoin is a Python-based mini-blockchain. The purpose of creating this project is to sharpen my understanding of blockchain's basic. The scope of the project covers hashing generating using the SHA-256 algorithm, and stacking blocks based on a previous hash. The output displays in local terminal setting, no transaction is made using this app.
 
